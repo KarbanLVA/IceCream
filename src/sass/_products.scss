@@ -9,10 +9,10 @@
 .section-products__title {
     margin-bottom: 148px;
     @media screen and (min-width:768px) {
-        margin-bottom: 128px;
+        margin-bottom: 155px;
     }
     @media screen and (min-width:1280px) {
-        margin-bottom: 197px;
+        margin-bottom: 257px;
     }
 }
 .section-products__list {
@@ -95,6 +95,7 @@
         background-image: url("../images/products/mobile/1s-home-pic@2x.png");
     }
     @media screen and (min-width:768px) {
+        height: 224px;
         background-image: url("../images/products/tablet/1m-home-pic.png");
         @media screen and (min-device-pixel-ratio: 2),
         screen and (-moz-min-device-pixel-ratio: 2),
@@ -106,6 +107,8 @@
         }
     }
     @media screen and (min-width:1280px) {
+        height: 394px;
+        top: -265px;
         background-image: url("../images/products/desctop/1l-home-pic.png");
         @media screen and (min-device-pixel-ratio: 2),
         screen and (-moz-min-device-pixel-ratio: 2),
@@ -139,6 +142,7 @@
             background-image: url("../images/products/mobile/2s-home-pic@2x.png");
         }
     @media screen and (min-width:768px) {
+        height: 224px;
         background-image: url("../images/products/tablet/2m-home-pic.png");
         @media screen and (min-device-pixel-ratio: 2),
         screen and (-moz-min-device-pixel-ratio: 2),
@@ -150,6 +154,8 @@
         }         
     }
     @media screen and (min-width:1280px) {
+        height: 394px;
+        top: -265px;
         background-image: url("../images/products/desctop/2l-home-pic.png");
         @media screen and (min-device-pixel-ratio: 2),
         screen and (-moz-min-device-pixel-ratio: 2),
@@ -183,6 +189,7 @@
             background-image: url("../images/products/mobile/3s-home-pic@2x.png");
         }
     @media screen and (min-width:768px) {
+        height: 224px;
         background-image: url("../images/products/tablet/3m-home-pic.png");
         @media screen and (min-device-pixel-ratio: 2),
         screen and (-moz-min-device-pixel-ratio: 2),
@@ -194,6 +201,8 @@
         }
     }
     @media screen and (min-width:1280px) {
+        height: 394px;
+        top: -265px;
         background-image: url("../images/products/desctop/3l-home-pic.png");
         @media screen and (min-device-pixel-ratio: 2),
         screen and (-moz-min-device-pixel-ratio: 2),
