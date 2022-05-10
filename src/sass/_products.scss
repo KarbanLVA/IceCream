@@ -251,6 +251,10 @@
     height: 40px;
     border-radius: 50%;
     border: transparent;
+    &:hover,
+    &:focus {
+        background-color: #ECEBEB;
+    }
 }
 .section-products__icon {
     fill: var(--accent-txt-cl);
